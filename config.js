@@ -20,11 +20,11 @@ global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...';
 
 global.owner = [
   ['212779919974', 'kai', true],
-  ['xxxxxxxxxx'], // Numero, Nome, True (attenzione alla sintassi deve essere identico a sopra!)
+  ['xxxxxxxxxx'], 
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
-  ['xxxxxxxxxx']
+  ['xxxxxxxxxx'],
 ];
 
 
