@@ -9,17 +9,17 @@ import moment from 'moment-timezone';
 
 global.botnumber = '';
 global.confirmCode = '';
-global.nomebot = '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭';
-global.packname = '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭';
-global.author = '𝐌𝐝';
-global.vs = '11';
+global.nomebot = 'kai-𝐁𝐨𝐭';
+global.packname = 'kai-𝐁𝐨𝐭';
+global.author = 'kai';
+global.vs = '1.0';
 global.collab = 'Demo';
 global.wm = global.nomebot;
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...';
 
 
 global.owner = [
-  ['393773842461', '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲', true],
+  ['212779919974', 'kai', true],
   ['xxxxxxxxxx'], // Numero, Nome, True (attenzione alla sintassi deve essere identico a sopra!)
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
